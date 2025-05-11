@@ -81,7 +81,7 @@ erosion_dilation_opt/
 
 ### ֎ Task 2: Memory Hierarchy Modeling
 
-- In Task 1, the implementation assumed an ideal memory model—infinite capacity with 1-cycle read/write access time and no latency.
+- In Task 1, the implementation assumed an ideal memory model, that has infinite capacity with 1-cycle read/write access time and no latency.
 - Task 2 introduces a realistic memory hierarchy by defining timing and structure through a custom memory.map file.
 - Upon compilation, the system reported a Total ROM size of 11,642 bytes (as seen in UnRoll(i=i+2)&MoreFusion_Make.png).
   
