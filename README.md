@@ -40,7 +40,7 @@ erosion_dilation_opt/
 **→ Erosion:**
 
 - A 2x2 structuring element is slid over the image.
-- If **all** pixels under the structuring element are 255, the seed point of the elemnt (output pixel) becomes 255; else, 0.
+- If **all** pixels under the structuring element are 255, the seed point of the elemnt (output pixel) becomes 1; else, 0.
 
 **→ Dilation:**
 
