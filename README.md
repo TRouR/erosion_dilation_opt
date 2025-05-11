@@ -185,7 +185,7 @@ In this way redundant reads from slow RAM are reduced and fast small SRAM is use
 - **Scatter File:** Defines the areas of memory where the basic data for the operation of the system are stored. 
 
 - **Stack/Heap Configuration:**
-  Stack (local variables store) grows upward, heap downward—both managed within RAM. Their locations and limits are manually configured in stack.c.
+  Stack (local variables store) grows upward, heap downward, both managed within RAM. Their locations and limits are manually configured in stack.c.
 
 ## 🟠 Simulation Setup
 
